@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TkoMeSmeta</string>
+    <string name="Ok">Ok</string>
+    <string name="Cancel">Cancel</string>
+    <string name="Add_contact">Add to Contacts?</string>
+    <string name="Number_to_add">Number to add</string>
+    <string name="Name">Name</string>
+    <string name="Not_found">Not found</string>
+    <string name="Date">Date</string>
+    <string name="Number">Number</string>
+    <string name="Find_online">Find online</string>
+    <string name="Contacts">Contacts</string>
+    <string name="Call_list">Call list</string>
+    <string name="Number_to_find">Data for number:</string>
+</resources>
